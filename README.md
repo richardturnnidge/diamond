@@ -1,5 +1,6 @@
 # diamond
-eZ80 game on AgonLight
+eZ80 game on AgonLight.
+
 Diamond Quest is a simple game, built purely as a goal to learn  z80 assembly routines on the Agon Light, All z80 assembly, no Basic. Run around the screen, you have 30 seconds to grab as many diamonds as possible. Your high score is retained for future sessions. 
 Two player (Boy and Girl) joystick support on the Console8, you can use one player with keys (the Boy)
 Whilst I have done some z80 assembly in the past (ZX81 and ZX Spectrum), the Agon architecture was a bit of a learning curve, not only the way sound and graphics are handled, but also included ADL mode, where two bytes are no longer two bytes...
