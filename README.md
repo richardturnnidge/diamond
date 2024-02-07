@@ -9,6 +9,10 @@ Whilst I have done some z80 assembly in the past (ZX81 and ZX Spectrum), the Ago
 
 I am not sharing the sources just yet, as it is still very much work in progress and needs a LOT of tidying up, but happy to share a bin file if anyone wants to play it. I'd like to split out the routines into separate code modules to make life easier on other projects.
 
+
+However, if you download and enjoy this game, you could buy me a coffee ;-)
+https://www.buymeacoffee.com/richardturnnidge
+
 It should run on MOS/VDP 1.04RC2, but also I am running on Console8 currently 2.0.0Alpha.
 
 The features I learned are applicable to many different game types:-
