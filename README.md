@@ -10,7 +10,6 @@ Whilst I have done some z80 assembly in the past (ZX81 and ZX Spectrum), the Ago
 I am not sharing the sources just yet, as it is still very much work in progress and needs a LOT of tidying up, but happy to share a bin file if anyone wants to play it. I'd like to split out the routines into separate code modules to make life easier on other projects.
 
 ![](./diamond1.png)
-![](./diamond2.png)
 
 However, if you download and enjoy this game, you could buy me a coffee ;-)
 https://www.buymeacoffee.com/richardturnnidge
@@ -38,6 +37,8 @@ Use of macros to neaten/simplify repeated code.
 Random number generation (for placing new diamonds).
 Background music player.
 Two player with both joysticks.
+
+![](./diamond2.png)
 
 The graphics and fonts are mostly freeware available on the internet, just used to save me time developing my own at this stage. They needed a bit of production time to get into the correct format.
 
