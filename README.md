@@ -9,6 +9,8 @@ Whilst I have done some z80 assembly in the past (ZX81 and ZX Spectrum), the Ago
 
 I am not sharing the sources just yet, as it is still very much work in progress and needs a LOT of tidying up, but happy to share a bin file if anyone wants to play it. I'd like to split out the routines into separate code modules to make life easier on other projects.
 
+![](./diamond1.PNG)
+![](./diamond2.PNG)
 
 However, if you download and enjoy this game, you could buy me a coffee ;-)
 https://www.buymeacoffee.com/richardturnnidge
