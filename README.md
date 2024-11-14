@@ -42,5 +42,13 @@ Two player with both joysticks.
 
 The graphics and fonts are mostly freeware available on the internet, just used to save me time developing my own at this stage. They needed a bit of production time to get into the correct format.
 
+
+Download the binary and copy to the root level of your SD card (or a folder of your choice). 
+
+Load the binary, then run it.
+
+For recent versiosn of MOS, simply type the name of the binary (without the .bin) and hit enter.
+
+
 I code in Sublime Text on Mac, then assemble with ez80asm on Mac, then use Jeroen Venema's hexload utility to pipe the bin file onto the Agon. It's not easy for debugging, but is quite quick to build and run on real hardware.
 
